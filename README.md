@@ -13,11 +13,13 @@
 
 - 📄 Know about my experiences [http://bit.ly/Nidhi-resume](http://bit.ly/Nidhi-resume)
 
+- ⚡ Fun fact **I love reading books and watching Anime/series**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/NidhiVPatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhi-patel-3a47491b6/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nidhi2007patel?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nidhi2007patel?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nidhi2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nidhi2001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nidhi-patel-3a47491b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhi-patel-3a47491b6/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/nidhi2007patel?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nidhi2007patel?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/nidhi2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nidhi2001/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
