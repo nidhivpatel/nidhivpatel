@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nidhi</h1>
 <h3 align="center">Graduate Student in Computer Engineering from University of Waterloo - Canada</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhivpatel&label=Profile%20views&color=0e75b6&style=flat" alt="nidhivpatel" /> </p>
+
+- 🔭 I’m currently working on [Music Recommendation System Project](https://github.com/nidhivpatel/Music-Recommendation-System-using-Spotify-API)
 
 - 🌱 I’m currently learning **Microsoft Power BI and Tableau Software**
 
